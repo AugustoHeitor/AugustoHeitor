@@ -1,0 +1,141 @@
+#cx-sobre{
+    position: relative;
+    margin: 0 auto;
+    width: 50%;
+}
+
+#cx-sobre > h1, #cx-sobre > p{
+    text-align: center;
+    color: #F0F1F2;
+}
+
+#cx-sobre > h1{
+    font-size: 2.5vw;
+    font-weight: bold;
+    margin-top: 7vw;
+}
+
+#cx-sobre > p{
+    font-size: 2vw;
+    font-weight: normal;
+    margin-top: 2vw;
+    width: 100%;
+}
+
+#arrow{
+    width: 15vw;
+    display: block;
+    margin: 5vw auto 0 auto;
+    transform: translateY(0px);
+    animation: float 2s ease-in-out infinite;
+}
+
+@keyframes float{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(-30px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+
+main > h1{
+    text-align: center;
+    font-size: 2.5vw;
+    font-weight: bold;
+    color: #F0F1F2;
+    margin: 5vw 0 3vw 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex > a{
+    text-decoration: none;
+}
+
+.container{
+    display: grid;
+    place-items: center;
+    position: relative;
+    width: 255px;
+    height: 355px;
+    border-radius: 1em;
+    background: linear-gradient(50deg, #2a5a3b, #1e4886);
+    overflow: hidden;
+    justify-content: space-between;
+    margin: 2vw 2vw 2vw 2vw;
+}
+
+.container::before{
+    content: " ";
+    position: absolute;
+    width: 450px;
+    height: 35px;
+    top: 0;
+    right: 35px;
+    transition: 1.9s;
+    background: linear-gradient(50deg, #00ff59, #02b3ff);
+    transform: rotate(-45deg) translate(0, -100px);
+}
+
+.card{
+    display: grid;
+    place-items: center;
+    width: 247px;
+    height: 347px;
+    background: #162F38;
+    border-radius: .8em;
+    z-index: 1;
+    color: #F0F1F2;
+    overflow: hidden;
+    padding: 1em;
+    text-align: center;
+    cursor: pointer;
+    transition: .5s ease;
+}
+
+.card:hover{
+    color: rgba(255, 255, 255, 0.486);
+}
+
+.container:hover::before{
+    animation: effect 1.9s;
+}
+
+@keyframes effect{
+    100%{
+        transform: rotate(-45deg) translate(0, 450px);
+    }
+}
+
+.cx-contato{
+    justify-content: space-between;
+    place-items: center;
+    position: relative;
+    display: grid;
+    width: 12vw;
+    margin: 2vw 10vw 7vw 10vw;
+    transform: translateY(0px);
+    animation: float 2s ease-in-out infinite;
+}
+.cx-contato > a > img{
+    margin: 0 auto;
+    width: 10vw;
+    height: 10vw;
+}
+
+.cx-contato > a{
+    margin: 0 auto;
+    color:#F0F1F2;;
+    text-decoration: none;
+    font-size: 1.5vw;
+}
+
+
