@@ -94,7 +94,7 @@ header > h2{
 }
 
 
-@media screen and (max-width: 368px){
+@media screen and (max-width: 400px){
     header{
         height: 100vw;
         display: block;

@@ -211,7 +211,7 @@ main > h1{
 
 }
 
-@media screen and (max-width:368px){
+@media screen and (max-width:400px){
     
     #cx-sobre{
         width: 85%;
