@@ -247,7 +247,7 @@ main > h1{
     .card{
         width: 140px;
         height: 140px;
-        font-size: 10px;
+        font-size: 8px;
     }
 
     #contato{
@@ -258,18 +258,14 @@ main > h1{
     .esconder{
         display: none;
     }
-    
+
     .cx-contato{
-        width: 34vw;
-        margin: 15vw auto 7vw auto;
+        width: 20vw;
+        margin: 10vw 3vw 3vw auto;
     }
     .cx-contato > a > img{
         width: 12vw;
         height: 12vw;
     }
-    
-    .cx-contato > a{
-        font-size: 5vw;
-        text-align: center;
-    }
+   
 }
