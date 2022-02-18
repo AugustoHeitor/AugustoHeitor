@@ -64,3 +64,67 @@ header > h2{
 }
 
 
+@media screen and (max-width:768px){
+    
+    header{
+        height: 31vw;
+    }
+
+    header > h1{
+        font-size: 5.8vw
+    }
+    
+    header > h2{
+        top: 7vw;
+        font-size: 4.8vw
+    }
+    
+    #botoes{
+        top: 20vw;
+    }
+    
+    #botoes > a{
+        font-size: 3.8vw;
+    }
+    
+    #fotoPerfil{
+        width: 30vw;
+    }
+    
+}
+
+
+@media screen and (max-width: 368px){
+    header{
+        height: 100vw;
+        display: block;
+    }
+
+    header > h1{
+        display: block;
+        position: relative;
+        text-align: center;
+        font-size: 7.5vw;
+        right: 0;
+    }
+    
+    header > h2{
+        display: block;
+        position: relative;
+        text-align: center;
+        font-size: 7vw;
+        top: 0;
+        right: 0;
+    }
+    
+    #botoes{
+       display: none
+    }
+    
+    #fotoPerfil{
+        display: block;
+        width: 75vw;
+        margin: auto;
+    }
+    
+}

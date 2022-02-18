@@ -115,6 +115,13 @@ main > h1{
     }
 }
 
+#contato{
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 10vw auto 5vw auto;
+}
+
 .cx-contato{
     justify-content: space-between;
     place-items: center;
@@ -139,3 +146,144 @@ main > h1{
 }
 
 
+@media screen and (max-width:768px){
+
+    #cx-sobre{
+        width: 75%;
+    }
+    
+    #cx-sobre > h1{
+        font-size: 4.5vw;
+    }
+    
+    #cx-sobre > p{
+        font-size: 3.8vw;
+    }
+    
+    #arrow{
+        width: 18vw;
+        margin: 6vw auto 0 auto;
+    }
+    
+    main > h1{
+        font-size: 4.5vw;
+    }
+    
+    .container{
+        width: 200px;
+        height: 300px;
+        margin: 2vw 2vw 2vw 2vw;
+    }
+    
+    .container::before{
+        width: 450px;
+        height: 35px;
+        right: 35px;
+    }
+    
+    .card{
+        width: 195px;
+        height: 290px;
+        font-size: 12px;
+    }
+
+    .card > div > p {
+        display: none;
+    }
+    
+    #contato{
+       font-size: 4.5vw
+    }
+    
+    .cx-contato{
+        width: 30vw;
+        margin: 3vw 10vw 7vw 10vw;
+    }
+    .cx-contato > a > img{
+        width: 12vw;
+        height: 12vw;
+    }
+    
+    .cx-contato > a{
+        font-size: 3.8vw;
+    }
+    
+
+}
+
+@media screen and (max-width:368px){
+    
+    #cx-sobre{
+        width: 85%;
+    }
+    
+    #cx-sobre > h1{
+        font-size: 6.5vw;
+    }
+    
+    #cx-sobre > p{
+        font-size: 5vw;
+    }
+    
+    #arrow{
+        width: 20vw;
+        margin: 9vw auto 0 auto;
+    }
+    
+    main > h1{
+        font-size: 6.5vw;
+    }
+
+    .flex{
+        display: block;
+    }
+
+    .flex > a > div{
+       margin: 5vw auto 5vw auto;
+    }
+    
+    .container{
+        width: 156px;
+        height: 208px;
+        margin: 2vw 2vw 2vw 2vw;
+    }
+    
+    .container::before{
+        width: 450px;
+        height: 35px;
+        right: 35px;
+    }
+    
+    .card{
+        width: 150px;
+        height: 200px;
+        font-size: 8px;
+    }
+
+    .card > div > p {
+        display: none;
+    }
+    
+    #contato{
+        font-size: 6.5vw;
+        margin-top: 10vw;
+    }
+
+    .esconder{
+        display: none;
+    }
+    
+    .cx-contato{
+        width: 35%;
+        margin: 15vw auto 7vw auto;
+    }
+    .cx-contato > a > img{
+        width: 12vw;
+        height: 12vw;
+    }
+    
+    .cx-contato > a{
+        font-size: 5vw;
+        text-align: center;
+    }
+}
