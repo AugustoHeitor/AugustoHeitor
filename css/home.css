@@ -186,10 +186,6 @@ main > h1{
         height: 290px;
         font-size: 12px;
     }
-
-    .card > div > p {
-        display: none;
-    }
     
     #contato{
        font-size: 4.5vw
@@ -234,36 +230,26 @@ main > h1{
         font-size: 6.5vw;
     }
 
-    .flex{
-        display: block;
-    }
-
     .flex > a > div{
-       margin: 5vw auto 5vw auto;
+       margin: 5vw 4vw 5vw 4vw;
     }
     
     .container{
-        width: 156px;
-        height: 208px;
-        margin: 2vw 2vw 2vw 2vw;
+        width: 145px;
+        height: 148px;
     }
     
     .container::before{
         width: 450px;
         height: 35px;
-        right: 35px;
     }
     
     .card{
-        width: 150px;
-        height: 200px;
-        font-size: 8px;
+        width: 140px;
+        height: 140px;
+        font-size: 10px;
     }
 
-    .card > div > p {
-        display: none;
-    }
-    
     #contato{
         font-size: 6.5vw;
         margin-top: 10vw;
@@ -274,7 +260,7 @@ main > h1{
     }
     
     .cx-contato{
-        width: 35%;
+        width: 34vw;
         margin: 15vw auto 7vw auto;
     }
     .cx-contato > a > img{
