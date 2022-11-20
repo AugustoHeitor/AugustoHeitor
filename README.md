@@ -1,6 +1,10 @@
-## Olá, tudo certo???
+### Olá, tudo certo???
 
-## Meu nome é Augusto, sou desenvolvedor front-end, formado desde junho de 2022, atualmente estou fazendo um novo curso de desenvolvedor full-stack na kenzie academy brasil, estou revendo os estudos da área de front-end novamente e aprendendo sobre uma nova área que até então não tinha contato. 👨‍💻
+### Meu nome é Augusto, sou desenvolvedor front-end, formado desde junho de 2022, atualmente estou fazendo um novo curso de desenvolvedor full-stack na kenzie academy brasil, estou revendo os estudos da área de front-end novamente e aprendendo sobre uma nova área que até então não tinha contato. 👨‍💻
+
+<br/>
+
+### Apaixonado por tecnologia!! ❤️
 
 <br/>
 
@@ -26,5 +30,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 <br/>
+Metodologias Ágeis, Noções de UX, APIs
 
-## Apaixonado por tecnologia!! ❤️
+<br/>
+
