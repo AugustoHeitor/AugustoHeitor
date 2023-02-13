@@ -1,10 +1,21 @@
-### Olá, tudo certo???
 
-### Meu nome é Augusto, sou desenvolvedor front-end, formado desde junho de 2022, atualmente estou fazendo um novo curso de desenvolvedor full-stack na kenzie academy brasil, estou revendo os estudos da área de front-end novamente e aprendendo sobre uma nova área que até então não tinha contato. 👨‍💻
+### Eu sou um Desenvolvedor Front-End apaixonado por criar soluções inovadoras e eficientes para os meus projetos. 
 
 <br/>
 
-### Apaixonado por tecnologia!! ❤️
+### Formei-me no SENAI e na Kenzie Academy Brasil e tenho um amplo conhecimento em HTML, CSS, JavaScript, controle de versão com Git, React, TypeScript, consumo de APIs, NodeJs, entre outras tecnologias. 
+
+<br/>
+
+### Além disso, estou familiarizado com as metodologias ágeis como Scrum, Kanban e Trello, e tenho boas noções de UX, o que me permite trabalhar com um controle efetivo dos meus projetos. 
+
+<br/>
+
+### Sempre estou em busca de aprender mais e aperfeiçoar minhas habilidades para poder oferecer soluções criativas e inovadoras.
+
+<br/>
+
+
 
 <br/>
 
@@ -18,19 +29,14 @@
 
 ![AugustoHeitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=AugustoHeitor&show_icons=true&theme=dark)
 
-
-## HARD SKILLS
-
-<div style="display:inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
 <br/>
-Metodologias Ágeis, Noções de UX, APIs
+
+## SÍNTESE DE QUALIFICAÇÕES
+
+
+<br/>
+
+### HTML5, CSS3, Web Semântica, JavaScript (ES6), Lógica de programação, Controle de versão com git, Programação Orientada a Objetos, Programação Funcional, Metodologias Ágeis, Scrum, Kanban, Trello, Github, Qualidade, Noções de UX, React, React Hooks, State Management, Componentização, uso de bibliotecas de componentes, Consumo de APIs, NodeJs, TypeScript.
 
 <br/>
 
