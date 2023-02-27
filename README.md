@@ -36,7 +36,7 @@
 
 <br/>
 
-### HTML5, CSS3, Web Semântica, JavaScript (ES6), Lógica de programação, Controle de versão com git, Programação Orientada a Objetos, Programação Funcional, Metodologias Ágeis, Scrum, Kanban, Trello, Github, Qualidade, Noções de UX, React, React Hooks, State Management, Componentização, uso de bibliotecas de componentes, Consumo de APIs, NodeJs, TypeScript.
+### HTML5, CSS3, JavaScript (ES6), Github, Controle de versão com git, Metodologias Ágeis, Scrum, Kanban, Trello, Noções de UX, React, TypeScript, Consumo de APIs, NodeJs, Express, Banco de dados, SQL, PostgreSQL, ORM, TypeORM.
 
 <br/>
 
