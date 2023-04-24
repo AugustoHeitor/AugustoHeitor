@@ -36,7 +36,7 @@
 
 <br/>
 
-### HTML5, CSS3, JavaScript (ES6), Github, Controle de versão com git, Metodologias Ágeis, Scrum, Kanban, Trello, Noções de UX, React, TypeScript, Consumo de APIs, NodeJs, Express, Banco de dados, SQL, PostgreSQL, ORM, TypeORM.
+### HTML5, CSS3, JavaScript (ES6), Github, Controle de versão com git, Metodologias Ágeis, Scrum, Kanban, Trello, Noções de UX, React, TypeScript, Consumo de APIs, NodeJs, Express, Banco de dados, SQL, PostgreSQL, ORM, TypeORM, Python, Django e Selenium.
 
 <br/>
 
