@@ -1,21 +1,5 @@
 
-### Eu sou um Desenvolvedor Front-End apaixonado por criar soluções inovadoras e eficientes para os meus projetos. 
-
-<br/>
-
-### Formei-me no SENAI e na Kenzie Academy Brasil e tenho um amplo conhecimento em HTML, CSS, JavaScript, controle de versão com Git, React, TypeScript, consumo de APIs, NodeJs, entre outras tecnologias. 
-
-<br/>
-
-### Além disso, estou familiarizado com as metodologias ágeis como Scrum, Kanban e Trello, e tenho boas noções de UX, o que me permite trabalhar com um controle efetivo dos meus projetos. 
-
-<br/>
-
-### Sempre estou em busca de aprender mais e aperfeiçoar minhas habilidades para poder oferecer soluções criativas e inovadoras.
-
-<br/>
-
-
+### Olá! Sou um desenvolvedor de software apaixonado pela criação de soluções inovadoras e funcionais por meio da programação. Tenho uma vasta experiência na área e estou constantemente em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas e contribuir para projetos de alta qualidade.
 
 <br/>
 
@@ -36,7 +20,7 @@
 
 <br/>
 
-### HTML5, CSS3, JavaScript (ES6), Github, Controle de versão com git, Metodologias Ágeis, Scrum, Kanban, Trello, Noções de UX, React, TypeScript, Consumo de APIs, NodeJs, Express, Banco de dados, SQL, PostgreSQL, ORM, TypeORM, Python, Django e Selenium.
+### HTML5, CSS3, JavaScript (ES6), Github, Controle de versão com git, Metodologias Ágeis, Scrum, Kanban, Trello, Noções de UX, React, TypeScript, Consumo de APIs, NodeJs, Express, Banco de dados, SQL, PostgreSQL, ORM, TypeORM, Python, Django, Selenium e PHP.
 
 <br/>
 
