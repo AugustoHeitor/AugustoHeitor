@@ -12,14 +12,6 @@ Meu objetivo é construir aplicações eficientes, escaláveis e funcionais, con
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@augustoheitor9596)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-heitor-36aa32187/)
 
-### 📊 GitHub Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoHeitor&layout=compact&theme=dark)](https://github.com/AugustoHeitor/github-readme-stats)
-
-![AugustoHeitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=AugustoHeitor&show_icons=true&theme=dark)
-
----
-
 ## 💻 Experiência e Atuação
 
 Mais de 3 anos de experiência profissional em desenvolvimento de software, com atuação em projetos nas empresas **Weeke, Tecnobit Sistemas e WarCamp**, além do desenvolvimento de aplicações independentes.
