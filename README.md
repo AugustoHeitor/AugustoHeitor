@@ -1,8 +1,8 @@
 # Olá, eu sou Augusto Heitor 👋
 
-**Desenvolvedor Full Stack | Back-end — PHP, Laravel e Node.js**
+**Desenvolvedor Full Stack | PHP, Laravel, JavaScript e Node.js**
 
-Sou desenvolvedor de software com mais de 3 anos de experiência, com foco em **PHP, Laravel, JavaScript, Node.js, bancos de dados SQL e integração de APIs REST**.
+Sou desenvolvedor web full stack com mais de 3 anos de experiência, com foco em **PHP, Laravel, JavaScript, Node.js, bancos de dados SQL e integração de APIs REST**.
 
 Desenvolvo sistemas de gestão (tarefas, relatórios, finanças e dashboards) e aplicações com **Inteligência Artificial**, usando LLMs e agentes inteligentes para automatizar processos.
 
@@ -41,15 +41,15 @@ Já atuei em projetos na **Weeke, Tecnobit Sistemas e WarCamp**, além de aplica
 Plataforma que reúne gerenciamento de tarefas, relatórios, controle financeiro e dashboards em uma única aplicação.
 
 - **Tecnologias:** PHP, Laravel e JavaScript
-- **Repositório:** [link]
-- **Demonstração:** [link]
+- **Repositório:** [[link]](https://github.com/AugustoHeitor/central_de_comando)
+- **Demonstração:** [[link]](https://lnkd.in/p/d3GqTNYz)
 
 ### TaskFlow AI — Aplicação com Agentes de IA
 Gerenciador inteligente de tarefas que permite criar, consultar e atualizar atividades por linguagem natural. Possui memória conversacional e Human-in-the-Loop (HITL), pedindo confirmação antes de executar ações importantes.
 
 - **Tecnologias:** LangChain e Google Gemini
-- **Repositório:** [link]
-- **Demonstração:** [link]
+- **Repositório:** [[link]](https://github.com/AugustoHeitor/task_flow_al)
+- **Demonstração:** [[link]](https://lnkd.in/p/dHmezJ9W)
 
 ---
 
